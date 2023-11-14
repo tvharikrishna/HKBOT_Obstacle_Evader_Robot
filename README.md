@@ -7,7 +7,7 @@
 ---------------------------------------------
 
 ## About this Project:
-This project showcases the HK Bot, an innovative robotic system engineered for autonomous navigation and proficient obstacle avoidance. It incorporates YdLiDAR technology for high-precision environmental scanning and leverages the Robot Operating System (ROS) to offer a sturdy and adaptable platform for robot programming. Python is employed to provide scripting and automation capabilities, further augmenting the bot's intelligent operational functions in various environments. 
+This project showcases the HK Bot, an innovative custom made mobile robot engineered for autonomous navigation and proficient obstacle avoidance. It incorporates YdLiDAR technology for high-precision environmental scanning and leverages the Robot Operating System (ROS) to offer a sturdy and adaptable platform for robot programming. Python is employed to provide scripting and automation capabilities, further augmenting the bot's intelligent operational functions in various environments. 
 
 Furthermore, the system's spatial data and sensor inputs are visualized using rviz, ROS's 3D visualization tool, allowing for the plotting of 2D LiDAR points for a comprehensive understanding of the robot's perception and navigation capabilities.
 
